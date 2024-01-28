@@ -162,7 +162,7 @@ html, body {
     z-index: 1;
     position: absolute;
     z-index: 3;
-    left: 70%;
+    right: 2%;
 }
 
 ul, li, li a {
